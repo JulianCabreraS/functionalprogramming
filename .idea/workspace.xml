@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7cc8310-261f-45ee-a0c2-bb7cf60d08fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functional-programming-with-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programming-with-java/programming/FP01Functional.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programming-with-java/programming/FP01Structured.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/FP01Functional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/FP01Structured.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\Development\UdemyCourses\FunctionalProgramming\functional-programming-with-java\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Ua3nZCR2QawFBNraWDHABdoVtn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../MasterMicroservices/restful-webservices" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+  </component>
+  <component name="RunManager" selected="Application.FP01Functional">
+    <configuration name="FP01Functional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programming.FP01Functional" />
+      <module name="functional-programming-with-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FP01Structured" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programming.FP01Structured" />
+      <module name="functional-programming-with-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FP01Functional" />
+        <item itemvalue="Application.FP01Structured" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7cc8310-261f-45ee-a0c2-bb7cf60d08fa" name="Default Changelist" comment="" />
+      <created>1575581046546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575581046546</updated>
+      <workItem from="1575581048879" duration="233000" />
+      <workItem from="1575582080706" duration="3768000" />
+      <workItem from="1575667133795" duration="1453000" />
+      <workItem from="1575668641395" duration="1540000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1887" y="474" key="#Project_Structure" timestamp="1575583255802">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1887" y="474" key="#Project_Structure/0.0.3440.1400@0.0.3440.1400" timestamp="1575583255802" />
+    <state x="1825" y="314" key="CommitChangelistDialog2" timestamp="1575670455944">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1825" y="314" key="CommitChangelistDialog2/0.0.3440.1400@0.0.3440.1400" timestamp="1575670455944" />
+    <state x="2096" y="638" key="FileChooserDialogImpl" timestamp="1575582099351">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2096" y="638" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1575582099351" />
+    <state width="1340" height="255" key="GridCell.Tab.0.bottom" timestamp="1575586512409">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1340" height="255" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1575586512409" />
+    <state width="1340" height="255" key="GridCell.Tab.0.center" timestamp="1575586512408">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1340" height="255" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1575586512408" />
+    <state width="1340" height="255" key="GridCell.Tab.0.left" timestamp="1575586512408">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1340" height="255" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1575586512408" />
+    <state width="1340" height="255" key="GridCell.Tab.0.right" timestamp="1575586512409">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1340" height="255" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1575586512409" />
+    <state x="601" y="442" key="SettingsEditor" timestamp="1575669419477">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="601" y="442" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1575669419477" />
+    <state x="2144" y="564" key="cloudConfig.SelfSettingsDialog" timestamp="1575669517491">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2144" y="564" key="cloudConfig.SelfSettingsDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1575669517491" />
+    <state x="2093" y="613" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1575669547839">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2093" y="613" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.3440.1400@0.0.3440.1400" timestamp="1575669547839" />
+  </component>
+</project>
