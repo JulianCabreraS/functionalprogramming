@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7cc8310-261f-45ee-a0c2-bb7cf60d08fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/programming/FP03BehaviorParameterization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programming/FP03FunctionalInterfaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programming/FP03FunctionalInterfaces2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programming/FP03MethodReferences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/FP04CustomClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/functional-programming-with-java/programming/FP01Functional.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/functional-programming-with-java/programming/FP01Functional.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +20,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/programming/FP04CustomClass.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -55,14 +54,14 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="programming" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FP03MethodReferences">
+  <component name="RunManager" selected="Application.FP04CustomClass">
     <configuration name="FP01Functional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programming.FP01Functional" />
       <module name="functional-programming-with-java" />
@@ -115,8 +114,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FP04CustomClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programming.FP04CustomClass" />
+      <module name="functional-programming-with-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FP04CustomClass" />
         <item itemvalue="Application.FP03MethodReferences" />
         <item itemvalue="Application.FP02Functional" />
         <item itemvalue="Application.FP01Functional" />
@@ -158,7 +171,8 @@
       <workItem from="1576609679537" duration="81000" />
       <workItem from="1576609852096" duration="330000" />
       <workItem from="1576613607173" duration="7905000" />
-      <workItem from="1576688227633" duration="4134000" />
+      <workItem from="1576688227633" duration="5053000" />
+      <workItem from="1576772961484" duration="10818000" />
     </task>
     <task id="LOCAL-00001" summary="Section 2 Introduction to Functional programming with Java">
       <created>1575670494202</created>
@@ -174,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576106997321</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Section 4 Exploring Java Funcitonal Interfaces and Lambdas">
+      <created>1576706162054</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576706162054</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,50 +219,55 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Section 2 Introduction to Functional programming with Java" />
     <MESSAGE value="Section 3 Playing with Streams" />
-    <option name="LAST_COMMIT_MESSAGE" value="Section 3 Playing with Streams" />
+    <MESSAGE value="Section 4 Exploring Java Funcitonal Interfaces and Lambdas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section 4 Exploring Java Funcitonal Interfaces and Lambdas" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1887" y="474" key="#Project_Structure" timestamp="1575583255802">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1887" y="474" key="#Project_Structure/0.0.3440.1400@0.0.3440.1400" timestamp="1575583255802" />
-    <state x="1825" y="314" key="CommitChangelistDialog2" timestamp="1576106992968">
+    <state x="2432" y="461" key="#com.intellij.ide.util.MemberChooser" timestamp="1576773759340">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1825" y="314" key="CommitChangelistDialog2/0.0.3440.1400@0.0.3440.1400" timestamp="1576106992968" />
+    <state x="2432" y="461" key="#com.intellij.ide.util.MemberChooser/0.0.3440.1400@0.0.3440.1400" timestamp="1576773759340" />
+    <state x="1825" y="314" key="CommitChangelistDialog2" timestamp="1576706157938">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1825" y="314" key="CommitChangelistDialog2/0.0.3440.1400@0.0.3440.1400" timestamp="1576706157938" />
     <state x="2096" y="638" key="FileChooserDialogImpl" timestamp="1575582099351">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="2096" y="638" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1575582099351" />
-    <state width="1699" height="210" key="GridCell.Tab.0.bottom" timestamp="1576107025956">
+    <state width="1618" height="441" key="GridCell.Tab.0.bottom" timestamp="1576788417696">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1699" height="210" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1576107025956" />
-    <state width="1699" height="210" key="GridCell.Tab.0.center" timestamp="1576107025956">
+    <state width="1618" height="441" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1576788417696" />
+    <state width="1618" height="441" key="GridCell.Tab.0.center" timestamp="1576788417695">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1699" height="210" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1576107025956" />
-    <state width="1699" height="210" key="GridCell.Tab.0.left" timestamp="1576107025956">
+    <state width="1618" height="441" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1576788417695" />
+    <state width="1618" height="441" key="GridCell.Tab.0.left" timestamp="1576788417695">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1699" height="210" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1576107025956" />
-    <state width="1699" height="210" key="GridCell.Tab.0.right" timestamp="1576107025956">
+    <state width="1618" height="441" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1576788417695" />
+    <state width="1618" height="441" key="GridCell.Tab.0.right" timestamp="1576788417696">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1699" height="210" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1576107025956" />
+    <state width="1618" height="441" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1576788417696" />
     <state x="2286" y="707" key="ReplaceDuplicatesPrompt" timestamp="1576619919235">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="2286" y="707" key="ReplaceDuplicatesPrompt/0.0.3440.1400@0.0.3440.1400" timestamp="1576619919235" />
-    <state x="601" y="442" key="SettingsEditor" timestamp="1576609758598">
-      <screen x="0" y="0" width="3439" height="1400" />
-    </state>
-    <state x="601" y="442" key="SettingsEditor/-1366.0.1365.728/0.0.3439.1400@0.0.3439.1400" timestamp="1576609758598" />
-    <state x="601" y="442" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1575669419477" />
-    <state x="1981" y="453" key="Vcs.Push.Dialog.v2" timestamp="1576107004738">
+    <state x="1936" y="352" key="SettingsEditor" timestamp="1576788083676">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1981" y="453" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1576107004738" />
+    <state x="601" y="442" key="SettingsEditor/-1366.0.1365.728/0.0.3439.1400@0.0.3439.1400" timestamp="1576609758598" />
+    <state x="1936" y="352" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1576788083676" />
+    <state x="1981" y="453" key="Vcs.Push.Dialog.v2" timestamp="1576706176340">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1981" y="453" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1576706176340" />
     <state x="2144" y="564" key="cloudConfig.SelfSettingsDialog" timestamp="1575669517491">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
